@@ -1,0 +1,501 @@
+Nama_penerima;No_resi;Nama_ekspedisi;Tanggal_order;Tanggal_pickup;Tanggal_delivered;Status;Nama_toko
+Taufik Hidayat;10000000;POS;23/01/2023;24/01/2023;26/01/2023;delivered;Nusantara Mart
+Siti Nurhaliza;10000001;JNE;17/12/2023;18/12/2023;22/12/2023;delivered;Cahaya Elektronik
+Putri Amelia;10000002;JNT;10/09/2023;11/09/2023;12/09/2023;delivered;Karya Mandiri
+Siti Nurhaliza;10000003;Sicepat;18/04/2023;21/04/2023;25/04/2023;delivered;Bintang Terang Shop
+Novita Sari;10000004;JNT;22/04/2023;25/04/2023;26/04/2023;delivered;Sinar Harapan
+Siti Nurhaliza;10000005;JNT;25/08/2023;27/08/2023;01/09/2023;delivered;Garuda Perkasa
+Rahmat Hidayat;10000006;JNE;21/07/2023;22/07/2023;29/07/2023;delivered;Cahaya Elektronik
+Zainal Abidin;10000007;Sicepat;10/09/2023;11/09/2023;15/09/2023;delivered;Berkah Jaya Store
+Cahya Purnama;10000008;JNT;10/02/2023;12/02/2023;19/02/2023;delivered;Garuda Perkasa
+Muhammad Rizky;10000009;Sicepat;14/11/2023;16/11/2023;21/11/2023;delivered;Berkah Jaya Store
+Indra Kusuma;10000010;Sicepat;26/05/2023;28/05/2023;04/06/2023;delivered;Karya Mandiri
+Dian Permata;10000011;Sicepat;29/01/2023;31/01/2023;04/02/2023;delivered;Duta Niaga
+Zainal Abidin;10000012;JNT;22/11/2023;24/11/2023;;return;Nusantara Mart
+Zainal Abidin;10000013;JNT;20/07/2023;21/07/2023;25/07/2023;delivered;Karya Mandiri
+Herlina;10000014;POS;22/08/2023;24/08/2023;25/08/2023;delivered;Bintang Terang Shop
+Taufik Hidayat;10000015;JNE;14/05/2023;17/05/2023;20/05/2023;delivered;Pelangi Fashion
+Utami;10000016;POS;09/04/2023;12/04/2023;13/04/2023;delivered;Pelangi Fashion
+Herlina;10000017;Sicepat;21/09/2023;23/09/2023;25/09/2023;delivered;Maju Makmur
+Agus Setiawan;10000018;POS;18/09/2023;20/09/2023;24/09/2023;delivered;Nusantara Mart
+Herlina;10000019;JNE;17/03/2023;20/03/2023;25/03/2023;delivered;Berkah Jaya Store
+Muhammad Rizky;10000020;Sicepat;31/07/2023;03/08/2023;;return;Garuda Perkasa
+Herlina;10000021;Sicepat;02/06/2023;03/06/2023;06/06/2023;delivered;Cahaya Elektronik
+Siti Nurhaliza;10000022;POS;15/03/2023;16/03/2023;19/03/2023;delivered;Pelangi Fashion
+Taufik Hidayat;10000023;JNT;06/05/2023;08/05/2023;15/05/2023;delivered;Bintang Terang Shop
+Agus Setiawan;10000024;POS;06/09/2023;07/09/2023;10/09/2023;delivered;Bintang Terang Shop
+Kartika Sari;10000025;Sicepat;15/06/2023;17/06/2023;;return;Duta Niaga
+Agus Setiawan;10000026;JNE;26/06/2023;27/06/2023;29/06/2023;delivered;Cahaya Elektronik
+Joko Susilo;10000027;POS;18/12/2023;21/12/2023;27/12/2023;delivered;Duta Niaga
+Kartika Sari;10000028;JNE;21/03/2023;24/03/2023;28/03/2023;delivered;Karya Mandiri
+Joko Susilo;10000029;Sicepat;21/09/2023;23/09/2023;26/09/2023;delivered;Karya Mandiri
+Novita Sari;10000030;Sicepat;10/12/2023;12/12/2023;15/12/2023;delivered;Pelangi Fashion
+Fitriani;10000031;Sicepat;12/04/2023;14/04/2023;20/04/2023;delivered;Karya Mandiri
+Indra Kusuma;10000032;JNE;24/02/2023;26/02/2023;;return;Cahaya Elektronik
+Yulia;10000033;Sicepat;17/01/2023;18/01/2023;23/01/2023;delivered;Garuda Perkasa
+Eko Prasetyo;10000034;JNE;28/09/2023;30/09/2023;07/10/2023;delivered;Sentosa Cell
+Taufik Hidayat;10000035;JNT;05/04/2023;08/04/2023;13/04/2023;delivered;Cahaya Elektronik
+Yulia;10000036;JNT;03/03/2023;05/03/2023;12/03/2023;delivered;Sentosa Cell
+Joko Susilo;10000037;POS;29/05/2023;01/06/2023;;return;Sentosa Cell
+Indra Kusuma;10000038;JNT;09/10/2023;11/10/2023;;return;Karya Mandiri
+Dewi Lestari;10000039;JNT;05/01/2023;06/01/2023;11/01/2023;delivered;Garuda Perkasa
+Cahya Purnama;10000040;JNE;16/05/2023;17/05/2023;18/05/2023;delivered;Sinar Harapan
+Utami;10000041;Sicepat;15/10/2023;17/10/2023;20/10/2023;delivered;Garuda Perkasa
+Joko Susilo;10000042;JNT;09/12/2023;10/12/2023;15/12/2023;delivered;Garuda Perkasa
+Wahyu Nugroho;10000043;JNE;15/04/2023;16/04/2023;22/04/2023;delivered;Bintang Terang Shop
+Dewi Lestari;10000044;JNE;16/10/2023;19/10/2023;23/10/2023;delivered;Karya Mandiri
+Kartika Sari;10000045;JNT;03/11/2023;04/11/2023;;return;Garuda Perkasa
+Dewi Lestari;10000046;JNT;03/11/2023;04/11/2023;07/11/2023;delivered;Nusantara Mart
+Gunawan;10000047;Sicepat;19/04/2023;20/04/2023;27/04/2023;delivered;Bintang Terang Shop
+Dian Permata;10000048;POS;02/02/2023;04/02/2023;09/02/2023;delivered;Maju Makmur
+Gunawan;10000049;JNT;26/08/2023;29/08/2023;02/09/2023;delivered;Sentosa Cell
+Lia Anggraini;10000050;Sicepat;25/10/2023;28/10/2023;29/10/2023;delivered;Garuda Perkasa
+Gunawan;10000051;POS;17/08/2023;20/08/2023;24/08/2023;delivered;Nusantara Mart
+Fitriani;10000052;POS;22/11/2023;24/11/2023;;return;Pelangi Fashion
+Wahyu Nugroho;10000053;JNT;09/08/2023;12/08/2023;14/08/2023;delivered;Pelangi Fashion
+Budi Santoso;10000054;Sicepat;07/09/2023;08/09/2023;12/09/2023;delivered;Karya Mandiri
+Joko Susilo;10000055;JNE;16/08/2023;18/08/2023;23/08/2023;delivered;Bintang Terang Shop
+Zainal Abidin;10000056;POS;05/11/2023;06/11/2023;;return;Duta Niaga
+Dewi Lestari;10000057;POS;24/10/2023;26/10/2023;30/10/2023;delivered;Berkah Jaya Store
+Wahyu Nugroho;10000058;JNT;11/05/2023;13/05/2023;14/05/2023;delivered;Sinar Harapan
+Novita Sari;10000059;JNT;20/07/2023;23/07/2023;28/07/2023;delivered;Duta Niaga
+Muhammad Rizky;10000060;POS;29/10/2023;31/10/2023;06/11/2023;delivered;Bintang Terang Shop
+Budi Santoso;10000061;JNE;09/05/2023;10/05/2023;17/05/2023;delivered;Sentosa Cell
+Rahmat Hidayat;10000062;JNT;21/12/2023;22/12/2023;25/12/2023;delivered;Karya Mandiri
+Dewi Lestari;10000063;Sicepat;29/04/2023;01/05/2023;07/05/2023;delivered;Bintang Terang Shop
+Novita Sari;10000064;JNT;24/05/2023;25/05/2023;01/06/2023;delivered;Sinar Harapan
+Agus Setiawan;10000065;JNE;26/02/2023;01/03/2023;07/03/2023;delivered;Garuda Perkasa
+Herlina;10000066;JNE;24/10/2023;25/10/2023;;return;Garuda Perkasa
+Agus Setiawan;10000067;POS;26/04/2023;29/04/2023;;return;Bintang Terang Shop
+Agus Setiawan;10000068;POS;20/01/2023;22/01/2023;25/01/2023;delivered;Maju Makmur
+Lia Anggraini;10000069;JNT;22/06/2023;24/06/2023;26/06/2023;delivered;Sentosa Cell
+Taufik Hidayat;10000070;JNT;26/12/2023;27/12/2023;29/12/2023;delivered;Bintang Terang Shop
+Taufik Hidayat;10000071;JNE;01/07/2023;04/07/2023;11/07/2023;delivered;Bintang Terang Shop
+Utami;10000072;Sicepat;11/01/2023;13/01/2023;;return;Bintang Terang Shop
+Citra Kirana;10000073;Sicepat;29/12/2023;01/01/2024;06/01/2024;delivered;Garuda Perkasa
+Rahmat Hidayat;10000074;POS;03/08/2023;05/08/2023;07/08/2023;delivered;Sentosa Cell
+Kartika Sari;10000075;JNT;26/11/2023;28/11/2023;04/12/2023;delivered;Sentosa Cell
+Utami;10000076;JNT;23/02/2023;24/02/2023;;return;Cahaya Elektronik
+Ani Wijaya;10000077;POS;23/05/2023;26/05/2023;30/05/2023;delivered;Cahaya Elektronik
+Yulia;10000078;JNT;06/07/2023;07/07/2023;14/07/2023;delivered;Cahaya Elektronik
+Citra Kirana;10000079;JNT;07/04/2023;10/04/2023;11/04/2023;delivered;Sinar Harapan
+Novita Sari;10000080;POS;15/07/2023;17/07/2023;;return;Sentosa Cell
+Putri Amelia;10000081;Sicepat;04/11/2023;05/11/2023;10/11/2023;delivered;Garuda Perkasa
+Zainal Abidin;10000082;POS;19/12/2023;22/12/2023;27/12/2023;delivered;Maju Makmur
+Kartika Sari;10000083;POS;24/01/2023;26/01/2023;01/02/2023;delivered;Garuda Perkasa
+Gunawan;10000084;JNE;28/06/2023;01/07/2023;02/07/2023;delivered;Cahaya Elektronik
+Rahmat Hidayat;10000085;Sicepat;12/06/2023;15/06/2023;;return;Bintang Terang Shop
+Ani Wijaya;10000086;JNE;28/03/2023;30/03/2023;03/04/2023;delivered;Sinar Harapan
+Taufik Hidayat;10000087;POS;13/05/2023;14/05/2023;21/05/2023;delivered;Pelangi Fashion
+Muhammad Rizky;10000088;JNE;27/01/2023;29/01/2023;31/01/2023;delivered;Nusantara Mart
+Utami;10000089;JNT;03/01/2023;06/01/2023;13/01/2023;delivered;Duta Niaga
+Yulia;10000090;POS;01/11/2023;03/11/2023;06/11/2023;delivered;Sinar Harapan
+Taufik Hidayat;10000091;JNE;31/08/2023;02/09/2023;07/09/2023;delivered;Duta Niaga
+Utami;10000092;JNT;16/05/2023;17/05/2023;19/05/2023;delivered;Duta Niaga
+Budi Santoso;10000093;Sicepat;08/04/2023;09/04/2023;;return;Garuda Perkasa
+Lia Anggraini;10000094;JNE;25/08/2023;27/08/2023;31/08/2023;delivered;Berkah Jaya Store
+Siti Nurhaliza;10000095;POS;29/11/2023;02/12/2023;05/12/2023;delivered;Berkah Jaya Store
+Muhammad Rizky;10000096;Sicepat;07/11/2023;08/11/2023;;return;Maju Makmur
+Kartika Sari;10000097;JNE;07/11/2023;10/11/2023;15/11/2023;delivered;Maju Makmur
+Kartika Sari;10000098;JNE;10/12/2023;13/12/2023;18/12/2023;delivered;Duta Niaga
+Wahyu Nugroho;10000099;Sicepat;09/06/2023;12/06/2023;14/06/2023;delivered;Duta Niaga
+Budi Santoso;10000100;JNT;29/04/2023;30/04/2023;07/05/2023;delivered;Duta Niaga
+Gunawan;10000101;JNT;30/09/2023;03/10/2023;;return;Berkah Jaya Store
+Taufik Hidayat;10000102;JNT;26/10/2023;28/10/2023;02/11/2023;delivered;Berkah Jaya Store
+Siti Nurhaliza;10000103;JNT;26/06/2023;27/06/2023;04/07/2023;delivered;Maju Makmur
+Utami;10000104;JNE;26/02/2023;01/03/2023;06/03/2023;delivered;Berkah Jaya Store
+Taufik Hidayat;10000105;POS;13/06/2023;14/06/2023;15/06/2023;delivered;Sinar Harapan
+Herlina;10000106;Sicepat;20/07/2023;22/07/2023;23/07/2023;delivered;Duta Niaga
+Putri Amelia;10000107;Sicepat;04/10/2023;06/10/2023;08/10/2023;delivered;Berkah Jaya Store
+Cahya Purnama;10000108;Sicepat;14/12/2023;17/12/2023;19/12/2023;delivered;Cahaya Elektronik
+Cahya Purnama;10000109;JNE;08/01/2023;10/01/2023;15/01/2023;delivered;Karya Mandiri
+Gunawan;10000110;JNE;05/12/2023;06/12/2023;09/12/2023;delivered;Garuda Perkasa
+Taufik Hidayat;10000111;Sicepat;29/12/2023;30/12/2023;01/01/2024;delivered;Garuda Perkasa
+Ani Wijaya;10000112;POS;26/10/2023;29/10/2023;02/11/2023;delivered;Cahaya Elektronik
+Lia Anggraini;10000113;POS;20/10/2023;21/10/2023;23/10/2023;delivered;Cahaya Elektronik
+Novita Sari;10000114;Sicepat;04/10/2023;07/10/2023;08/10/2023;delivered;Berkah Jaya Store
+Agus Setiawan;10000115;Sicepat;17/07/2023;19/07/2023;25/07/2023;delivered;Duta Niaga
+Eko Prasetyo;10000116;Sicepat;07/05/2023;08/05/2023;12/05/2023;delivered;Berkah Jaya Store
+Kartika Sari;10000117;JNE;10/02/2023;11/02/2023;12/02/2023;delivered;Sentosa Cell
+Budi Santoso;10000118;Sicepat;10/12/2023;13/12/2023;14/12/2023;delivered;Maju Makmur
+Novita Sari;10000119;Sicepat;19/09/2023;20/09/2023;25/09/2023;delivered;Cahaya Elektronik
+Yulia;10000120;Sicepat;13/02/2023;15/02/2023;;return;Nusantara Mart
+Rahmat Hidayat;10000121;Sicepat;12/11/2023;13/11/2023;17/11/2023;delivered;Cahaya Elektronik
+Kartika Sari;10000122;JNE;29/12/2023;31/12/2023;02/01/2024;delivered;Pelangi Fashion
+Kartika Sari;10000123;POS;25/04/2023;28/04/2023;30/04/2023;delivered;Maju Makmur
+Dian Permata;10000124;POS;08/09/2023;10/09/2023;16/09/2023;delivered;Duta Niaga
+Rahmat Hidayat;10000125;POS;13/04/2023;16/04/2023;19/04/2023;delivered;Berkah Jaya Store
+Dian Permata;10000126;Sicepat;25/01/2023;26/01/2023;27/01/2023;delivered;Karya Mandiri
+Yulia;10000127;POS;13/09/2023;14/09/2023;18/09/2023;delivered;Pelangi Fashion
+Muhammad Rizky;10000128;POS;19/02/2023;22/02/2023;;return;Sentosa Cell
+Lia Anggraini;10000129;Sicepat;05/04/2023;07/04/2023;09/04/2023;delivered;Berkah Jaya Store
+Taufik Hidayat;10000130;POS;04/05/2023;06/05/2023;11/05/2023;delivered;Pelangi Fashion
+Utami;10000131;JNE;06/03/2023;08/03/2023;09/03/2023;delivered;Cahaya Elektronik
+Indra Kusuma;10000132;Sicepat;28/09/2023;01/10/2023;;return;Pelangi Fashion
+Putri Amelia;10000133;JNE;10/03/2023;13/03/2023;;return;Sinar Harapan
+Taufik Hidayat;10000134;JNE;02/06/2023;04/06/2023;09/06/2023;delivered;Duta Niaga
+Fitriani;10000135;JNE;13/05/2023;15/05/2023;17/05/2023;delivered;Bintang Terang Shop
+Muhammad Rizky;10000136;JNT;16/12/2023;19/12/2023;22/12/2023;delivered;Berkah Jaya Store
+Budi Santoso;10000137;POS;21/08/2023;22/08/2023;28/08/2023;delivered;Pelangi Fashion
+Muhammad Rizky;10000138;JNT;16/05/2023;17/05/2023;23/05/2023;delivered;Maju Makmur
+Taufik Hidayat;10000139;POS;23/05/2023;24/05/2023;29/05/2023;delivered;Bintang Terang Shop
+Indra Kusuma;10000140;JNT;30/03/2023;02/04/2023;04/04/2023;delivered;Sinar Harapan
+Muhammad Rizky;10000141;JNE;21/08/2023;22/08/2023;24/08/2023;delivered;Sentosa Cell
+Dewi Lestari;10000142;JNE;11/03/2023;12/03/2023;17/03/2023;delivered;Pelangi Fashion
+Taufik Hidayat;10000143;POS;26/06/2023;27/06/2023;04/07/2023;delivered;Sentosa Cell
+Yulia;10000144;JNE;04/03/2023;07/03/2023;14/03/2023;delivered;Cahaya Elektronik
+Fitriani;10000145;JNT;06/11/2023;09/11/2023;;return;Sentosa Cell
+Putri Amelia;10000146;POS;27/07/2023;28/07/2023;31/07/2023;delivered;Karya Mandiri
+Dian Permata;10000147;Sicepat;17/05/2023;19/05/2023;23/05/2023;delivered;Pelangi Fashion
+Ani Wijaya;10000148;POS;25/03/2023;27/03/2023;01/04/2023;delivered;Sentosa Cell
+Siti Nurhaliza;10000149;POS;23/01/2023;24/01/2023;29/01/2023;delivered;Cahaya Elektronik
+Zainal Abidin;10000150;JNE;15/11/2023;18/11/2023;19/11/2023;delivered;Berkah Jaya Store
+Rahmat Hidayat;10000151;Sicepat;30/08/2023;31/08/2023;06/09/2023;delivered;Berkah Jaya Store
+Eko Prasetyo;10000152;JNE;09/11/2023;11/11/2023;14/11/2023;delivered;Berkah Jaya Store
+Citra Kirana;10000153;JNT;12/02/2023;13/02/2023;19/02/2023;delivered;Pelangi Fashion
+Putri Amelia;10000154;JNT;09/08/2023;10/08/2023;12/08/2023;delivered;Bintang Terang Shop
+Novita Sari;10000155;Sicepat;23/12/2023;24/12/2023;28/12/2023;delivered;Cahaya Elektronik
+Cahya Purnama;10000156;JNE;27/09/2023;30/09/2023;07/10/2023;delivered;Duta Niaga
+Wahyu Nugroho;10000157;POS;27/03/2023;28/03/2023;01/04/2023;delivered;Karya Mandiri
+Zainal Abidin;10000158;Sicepat;05/02/2023;06/02/2023;13/02/2023;delivered;Berkah Jaya Store
+Siti Nurhaliza;10000159;JNE;23/10/2023;24/10/2023;25/10/2023;delivered;Pelangi Fashion
+Rahmat Hidayat;10000160;JNE;15/07/2023;18/07/2023;;return;Maju Makmur
+Wahyu Nugroho;10000161;Sicepat;25/11/2023;28/11/2023;;return;Karya Mandiri
+Novita Sari;10000162;Sicepat;17/06/2023;20/06/2023;25/06/2023;delivered;Duta Niaga
+Taufik Hidayat;10000163;Sicepat;02/07/2023;04/07/2023;05/07/2023;delivered;Cahaya Elektronik
+Ani Wijaya;10000164;JNE;07/08/2023;09/08/2023;16/08/2023;delivered;Duta Niaga
+Joko Susilo;10000165;Sicepat;13/11/2023;15/11/2023;20/11/2023;delivered;Sentosa Cell
+Wahyu Nugroho;10000166;JNT;03/12/2023;05/12/2023;10/12/2023;delivered;Sinar Harapan
+Eko Prasetyo;10000167;Sicepat;19/04/2023;21/04/2023;22/04/2023;delivered;Sinar Harapan
+Lia Anggraini;10000168;Sicepat;08/05/2023;10/05/2023;14/05/2023;delivered;Maju Makmur
+Gunawan;10000169;POS;18/11/2023;20/11/2023;27/11/2023;delivered;Bintang Terang Shop
+Ani Wijaya;10000170;Sicepat;21/11/2023;23/11/2023;29/11/2023;delivered;Bintang Terang Shop
+Eko Prasetyo;10000171;Sicepat;01/02/2023;04/02/2023;10/02/2023;delivered;Maju Makmur
+Wahyu Nugroho;10000172;Sicepat;04/09/2023;05/09/2023;;return;Sentosa Cell
+Muhammad Rizky;10000173;JNE;11/12/2023;13/12/2023;18/12/2023;delivered;Nusantara Mart
+Rahmat Hidayat;10000174;Sicepat;08/07/2023;10/07/2023;17/07/2023;delivered;Sentosa Cell
+Rahmat Hidayat;10000175;JNT;19/02/2023;22/02/2023;01/03/2023;delivered;Pelangi Fashion
+Zainal Abidin;10000176;JNT;21/07/2023;22/07/2023;24/07/2023;delivered;Garuda Perkasa
+Taufik Hidayat;10000177;JNT;07/02/2023;10/02/2023;;return;Garuda Perkasa
+Yulia;10000178;JNT;08/02/2023;10/02/2023;12/02/2023;delivered;Berkah Jaya Store
+Utami;10000179;JNT;10/07/2023;12/07/2023;14/07/2023;delivered;Maju Makmur
+Gunawan;10000180;JNT;28/11/2023;01/12/2023;05/12/2023;delivered;Sentosa Cell
+Siti Nurhaliza;10000181;Sicepat;19/11/2023;22/11/2023;29/11/2023;delivered;Berkah Jaya Store
+Putri Amelia;10000182;JNT;18/07/2023;19/07/2023;23/07/2023;delivered;Duta Niaga
+Dewi Lestari;10000183;JNE;12/09/2023;15/09/2023;;return;Berkah Jaya Store
+Wahyu Nugroho;10000184;Sicepat;17/10/2023;20/10/2023;27/10/2023;delivered;Sentosa Cell
+Lia Anggraini;10000185;POS;13/12/2023;15/12/2023;21/12/2023;delivered;Cahaya Elektronik
+Yulia;10000186;POS;06/05/2023;08/05/2023;10/05/2023;delivered;Karya Mandiri
+Fitriani;10000187;Sicepat;24/05/2023;26/05/2023;27/05/2023;delivered;Nusantara Mart
+Citra Kirana;10000188;Sicepat;29/10/2023;30/10/2023;03/11/2023;delivered;Cahaya Elektronik
+Siti Nurhaliza;10000189;Sicepat;19/10/2023;22/10/2023;26/10/2023;delivered;Duta Niaga
+Dian Permata;10000190;Sicepat;29/12/2023;01/01/2024;;return;Cahaya Elektronik
+Cahya Purnama;10000191;JNT;04/10/2023;05/10/2023;11/10/2023;delivered;Karya Mandiri
+Zainal Abidin;10000192;POS;10/01/2023;13/01/2023;;return;Maju Makmur
+Wahyu Nugroho;10000193;JNT;03/10/2023;05/10/2023;08/10/2023;delivered;Sentosa Cell
+Putri Amelia;10000194;JNT;25/05/2023;26/05/2023;27/05/2023;delivered;Duta Niaga
+Taufik Hidayat;10000195;Sicepat;09/10/2023;11/10/2023;12/10/2023;delivered;Karya Mandiri
+Agus Setiawan;10000196;POS;29/08/2023;31/08/2023;;return;Nusantara Mart
+Agus Setiawan;10000197;POS;28/07/2023;30/07/2023;04/08/2023;delivered;Sinar Harapan
+Cahya Purnama;10000198;POS;21/12/2023;23/12/2023;24/12/2023;delivered;Sentosa Cell
+Zainal Abidin;10000199;JNT;25/04/2023;28/04/2023;05/05/2023;delivered;Duta Niaga
+Dian Permata;10000200;JNE;31/01/2023;01/02/2023;05/02/2023;delivered;Sinar Harapan
+Herlina;10000201;Sicepat;05/05/2023;06/05/2023;11/05/2023;delivered;Cahaya Elektronik
+Wahyu Nugroho;10000202;Sicepat;06/08/2023;09/08/2023;14/08/2023;delivered;Sentosa Cell
+Herlina;10000203;Sicepat;30/11/2023;01/12/2023;05/12/2023;delivered;Berkah Jaya Store
+Budi Santoso;10000204;POS;16/05/2023;18/05/2023;23/05/2023;delivered;Berkah Jaya Store
+Indra Kusuma;10000205;Sicepat;27/07/2023;29/07/2023;;return;Duta Niaga
+Rahmat Hidayat;10000206;JNE;13/05/2023;15/05/2023;17/05/2023;delivered;Maju Makmur
+Joko Susilo;10000207;JNT;13/05/2023;16/05/2023;19/05/2023;delivered;Garuda Perkasa
+Muhammad Rizky;10000208;POS;30/09/2023;02/10/2023;04/10/2023;delivered;Garuda Perkasa
+Gunawan;10000209;POS;11/08/2023;12/08/2023;18/08/2023;delivered;Garuda Perkasa
+Yulia;10000210;JNT;12/02/2023;15/02/2023;;return;Sinar Harapan
+Putri Amelia;10000211;POS;17/11/2023;20/11/2023;27/11/2023;delivered;Duta Niaga
+Agus Setiawan;10000212;POS;31/12/2023;03/01/2024;09/01/2024;delivered;Sinar Harapan
+Taufik Hidayat;10000213;JNE;04/02/2023;07/02/2023;09/02/2023;delivered;Duta Niaga
+Dewi Lestari;10000214;JNT;04/05/2023;06/05/2023;07/05/2023;delivered;Karya Mandiri
+Siti Nurhaliza;10000215;Sicepat;03/12/2023;06/12/2023;13/12/2023;delivered;Bintang Terang Shop
+Muhammad Rizky;10000216;Sicepat;16/09/2023;17/09/2023;24/09/2023;delivered;Bintang Terang Shop
+Lia Anggraini;10000217;POS;23/04/2023;25/04/2023;01/05/2023;delivered;Sentosa Cell
+Indra Kusuma;10000218;POS;07/03/2023;08/03/2023;10/03/2023;delivered;Berkah Jaya Store
+Dewi Lestari;10000219;JNT;27/05/2023;28/05/2023;04/06/2023;delivered;Pelangi Fashion
+Rahmat Hidayat;10000220;POS;12/08/2023;14/08/2023;19/08/2023;delivered;Berkah Jaya Store
+Citra Kirana;10000221;JNT;11/06/2023;13/06/2023;19/06/2023;delivered;Garuda Perkasa
+Novita Sari;10000222;JNT;28/04/2023;29/04/2023;30/04/2023;delivered;Nusantara Mart
+Novita Sari;10000223;Sicepat;20/08/2023;23/08/2023;26/08/2023;delivered;Sinar Harapan
+Ani Wijaya;10000224;JNT;19/03/2023;20/03/2023;24/03/2023;delivered;Karya Mandiri
+Yulia;10000225;POS;07/08/2023;08/08/2023;09/08/2023;delivered;Sentosa Cell
+Herlina;10000226;JNE;06/09/2023;07/09/2023;11/09/2023;delivered;Pelangi Fashion
+Siti Nurhaliza;10000227;POS;18/02/2023;21/02/2023;23/02/2023;delivered;Berkah Jaya Store
+Utami;10000228;JNT;16/03/2023;17/03/2023;23/03/2023;delivered;Karya Mandiri
+Yulia;10000229;JNE;13/07/2023;14/07/2023;15/07/2023;delivered;Duta Niaga
+Eko Prasetyo;10000230;Sicepat;23/01/2023;26/01/2023;;return;Cahaya Elektronik
+Lia Anggraini;10000231;JNE;26/06/2023;29/06/2023;;return;Pelangi Fashion
+Dewi Lestari;10000232;POS;25/04/2023;27/04/2023;01/05/2023;delivered;Pelangi Fashion
+Lia Anggraini;10000233;JNT;05/03/2023;06/03/2023;11/03/2023;delivered;Sinar Harapan
+Indra Kusuma;10000234;JNT;27/06/2023;29/06/2023;02/07/2023;delivered;Maju Makmur
+Citra Kirana;10000235;POS;02/09/2023;05/09/2023;08/09/2023;delivered;Karya Mandiri
+Utami;10000236;Sicepat;10/04/2023;13/04/2023;16/04/2023;delivered;Duta Niaga
+Dewi Lestari;10000237;POS;14/09/2023;17/09/2023;20/09/2023;delivered;Berkah Jaya Store
+Indra Kusuma;10000238;POS;23/08/2023;26/08/2023;28/08/2023;delivered;Nusantara Mart
+Kartika Sari;10000239;JNT;24/06/2023;26/06/2023;30/06/2023;delivered;Bintang Terang Shop
+Gunawan;10000240;Sicepat;13/08/2023;15/08/2023;16/08/2023;delivered;Sinar Harapan
+Wahyu Nugroho;10000241;JNT;26/10/2023;27/10/2023;;return;Karya Mandiri
+Muhammad Rizky;10000242;Sicepat;24/11/2023;25/11/2023;26/11/2023;delivered;Sentosa Cell
+Kartika Sari;10000243;Sicepat;16/11/2023;18/11/2023;23/11/2023;delivered;Maju Makmur
+Dewi Lestari;10000244;JNE;28/11/2023;01/12/2023;06/12/2023;delivered;Berkah Jaya Store
+Agus Setiawan;10000245;Sicepat;16/11/2023;19/11/2023;26/11/2023;delivered;Duta Niaga
+Lia Anggraini;10000246;POS;09/03/2023;10/03/2023;;return;Pelangi Fashion
+Fitriani;10000247;Sicepat;08/10/2023;10/10/2023;17/10/2023;delivered;Cahaya Elektronik
+Cahya Purnama;10000248;Sicepat;04/08/2023;05/08/2023;12/08/2023;delivered;Garuda Perkasa
+Fitriani;10000249;JNT;11/09/2023;13/09/2023;17/09/2023;delivered;Cahaya Elektronik
+Novita Sari;10000250;JNT;15/01/2023;16/01/2023;19/01/2023;delivered;Karya Mandiri
+Muhammad Rizky;10000251;JNE;15/04/2023;18/04/2023;22/04/2023;delivered;Duta Niaga
+Utami;10000252;JNT;17/04/2023;20/04/2023;;return;Bintang Terang Shop
+Wahyu Nugroho;10000253;POS;08/01/2023;09/01/2023;16/01/2023;delivered;Nusantara Mart
+Budi Santoso;10000254;JNE;07/01/2023;10/01/2023;;return;Nusantara Mart
+Yulia;10000255;JNE;06/06/2023;07/06/2023;10/06/2023;delivered;Pelangi Fashion
+Kartika Sari;10000256;POS;28/10/2023;31/10/2023;04/11/2023;delivered;Pelangi Fashion
+Rahmat Hidayat;10000257;POS;14/12/2023;15/12/2023;20/12/2023;delivered;Nusantara Mart
+Indra Kusuma;10000258;JNE;28/05/2023;29/05/2023;31/05/2023;delivered;Sentosa Cell
+Utami;10000259;JNT;12/11/2023;14/11/2023;16/11/2023;delivered;Cahaya Elektronik
+Zainal Abidin;10000260;JNT;08/02/2023;09/02/2023;12/02/2023;delivered;Pelangi Fashion
+Indra Kusuma;10000261;Sicepat;13/03/2023;16/03/2023;22/03/2023;delivered;Sentosa Cell
+Kartika Sari;10000262;JNT;01/10/2023;04/10/2023;10/10/2023;delivered;Duta Niaga
+Rahmat Hidayat;10000263;Sicepat;20/09/2023;23/09/2023;27/09/2023;delivered;Pelangi Fashion
+Siti Nurhaliza;10000264;POS;08/06/2023;11/06/2023;12/06/2023;delivered;Bintang Terang Shop
+Budi Santoso;10000265;POS;25/12/2023;27/12/2023;29/12/2023;delivered;Maju Makmur
+Ani Wijaya;10000266;POS;01/10/2023;03/10/2023;04/10/2023;delivered;Pelangi Fashion
+Utami;10000267;Sicepat;01/01/2024;02/01/2024;03/01/2024;delivered;Nusantara Mart
+Siti Nurhaliza;10000268;JNT;25/09/2023;28/09/2023;04/10/2023;delivered;Garuda Perkasa
+Ani Wijaya;10000269;POS;17/03/2023;19/03/2023;;return;Berkah Jaya Store
+Eko Prasetyo;10000270;JNE;23/06/2023;24/06/2023;;return;Sinar Harapan
+Agus Setiawan;10000271;JNT;01/12/2023;03/12/2023;04/12/2023;delivered;Cahaya Elektronik
+Muhammad Rizky;10000272;POS;06/10/2023;07/10/2023;;return;Nusantara Mart
+Dian Permata;10000273;JNE;30/03/2023;31/03/2023;02/04/2023;delivered;Cahaya Elektronik
+Dewi Lestari;10000274;POS;05/06/2023;08/06/2023;14/06/2023;delivered;Nusantara Mart
+Cahya Purnama;10000275;JNE;20/08/2023;23/08/2023;;return;Nusantara Mart
+Wahyu Nugroho;10000276;POS;29/04/2023;02/05/2023;07/05/2023;delivered;Duta Niaga
+Lia Anggraini;10000277;POS;02/09/2023;04/09/2023;10/09/2023;delivered;Duta Niaga
+Putri Amelia;10000278;JNT;06/05/2023;08/05/2023;13/05/2023;delivered;Pelangi Fashion
+Siti Nurhaliza;10000279;JNT;09/03/2023;12/03/2023;;return;Garuda Perkasa
+Dewi Lestari;10000280;JNE;20/10/2023;21/10/2023;27/10/2023;delivered;Bintang Terang Shop
+Yulia;10000281;JNT;01/03/2023;02/03/2023;04/03/2023;delivered;Duta Niaga
+Utami;10000282;JNT;08/08/2023;10/08/2023;13/08/2023;delivered;Pelangi Fashion
+Putri Amelia;10000283;Sicepat;04/02/2023;07/02/2023;13/02/2023;delivered;Cahaya Elektronik
+Zainal Abidin;10000284;Sicepat;10/03/2023;13/03/2023;;return;Bintang Terang Shop
+Agus Setiawan;10000285;JNT;01/01/2024;04/01/2024;10/01/2024;delivered;Nusantara Mart
+Indra Kusuma;10000286;POS;10/08/2023;13/08/2023;14/08/2023;delivered;Garuda Perkasa
+Kartika Sari;10000287;JNT;22/01/2023;24/01/2023;25/01/2023;delivered;Sentosa Cell
+Siti Nurhaliza;10000288;JNT;09/06/2023;11/06/2023;14/06/2023;delivered;Pelangi Fashion
+Cahya Purnama;10000289;JNT;19/12/2023;21/12/2023;27/12/2023;delivered;Maju Makmur
+Budi Santoso;10000290;JNE;28/06/2023;01/07/2023;04/07/2023;delivered;Karya Mandiri
+Fitriani;10000291;JNT;04/11/2023;06/11/2023;07/11/2023;delivered;Sentosa Cell
+Gunawan;10000292;JNT;17/02/2023;18/02/2023;19/02/2023;delivered;Duta Niaga
+Gunawan;10000293;JNE;21/05/2023;22/05/2023;;return;Duta Niaga
+Herlina;10000294;Sicepat;20/06/2023;23/06/2023;26/06/2023;delivered;Cahaya Elektronik
+Zainal Abidin;10000295;JNE;25/06/2023;27/06/2023;02/07/2023;delivered;Duta Niaga
+Citra Kirana;10000296;JNE;25/12/2023;27/12/2023;30/12/2023;delivered;Sentosa Cell
+Eko Prasetyo;10000297;Sicepat;05/07/2023;08/07/2023;12/07/2023;delivered;Bintang Terang Shop
+Ani Wijaya;10000298;JNE;17/04/2023;18/04/2023;22/04/2023;delivered;Sinar Harapan
+Cahya Purnama;10000299;POS;27/10/2023;29/10/2023;05/11/2023;delivered;Cahaya Elektronik
+Zainal Abidin;10000300;JNE;13/01/2023;16/01/2023;21/01/2023;delivered;Bintang Terang Shop
+Lia Anggraini;10000301;POS;24/11/2023;26/11/2023;27/11/2023;delivered;Garuda Perkasa
+Fitriani;10000302;JNT;29/12/2023;31/12/2023;05/01/2024;delivered;Pelangi Fashion
+Utami;10000303;JNE;27/10/2023;29/10/2023;01/11/2023;delivered;Sinar Harapan
+Joko Susilo;10000304;POS;14/01/2023;17/01/2023;22/01/2023;delivered;Maju Makmur
+Lia Anggraini;10000305;JNT;26/05/2023;27/05/2023;03/06/2023;delivered;Karya Mandiri
+Novita Sari;10000306;JNT;21/04/2023;23/04/2023;;return;Berkah Jaya Store
+Joko Susilo;10000307;Sicepat;10/11/2023;12/11/2023;13/11/2023;delivered;Sinar Harapan
+Zainal Abidin;10000308;Sicepat;05/12/2023;07/12/2023;08/12/2023;delivered;Duta Niaga
+Putri Amelia;10000309;JNE;09/12/2023;10/12/2023;15/12/2023;delivered;Nusantara Mart
+Cahya Purnama;10000310;POS;13/06/2023;14/06/2023;16/06/2023;delivered;Bintang Terang Shop
+Wahyu Nugroho;10000311;JNE;19/12/2023;21/12/2023;28/12/2023;delivered;Berkah Jaya Store
+Novita Sari;10000312;POS;02/10/2023;04/10/2023;06/10/2023;delivered;Pelangi Fashion
+Utami;10000313;Sicepat;17/07/2023;20/07/2023;22/07/2023;delivered;Nusantara Mart
+Gunawan;10000314;JNE;12/10/2023;15/10/2023;17/10/2023;delivered;Duta Niaga
+Budi Santoso;10000315;JNE;07/07/2023;10/07/2023;14/07/2023;delivered;Sinar Harapan
+Muhammad Rizky;10000316;POS;26/07/2023;27/07/2023;28/07/2023;delivered;Sinar Harapan
+Agus Setiawan;10000317;POS;17/01/2023;19/01/2023;;return;Garuda Perkasa
+Agus Setiawan;10000318;Sicepat;06/08/2023;08/08/2023;12/08/2023;delivered;Sinar Harapan
+Muhammad Rizky;10000319;JNE;09/04/2023;11/04/2023;14/04/2023;delivered;Nusantara Mart
+Gunawan;10000320;JNE;24/05/2023;26/05/2023;31/05/2023;delivered;Duta Niaga
+Novita Sari;10000321;POS;13/08/2023;14/08/2023;15/08/2023;delivered;Karya Mandiri
+Dian Permata;10000322;Sicepat;06/04/2023;09/04/2023;11/04/2023;delivered;Pelangi Fashion
+Ani Wijaya;10000323;Sicepat;10/02/2023;13/02/2023;15/02/2023;delivered;Garuda Perkasa
+Dian Permata;10000324;JNT;17/03/2023;20/03/2023;26/03/2023;delivered;Pelangi Fashion
+Budi Santoso;10000325;JNT;29/06/2023;30/06/2023;06/07/2023;delivered;Sinar Harapan
+Novita Sari;10000326;JNE;17/05/2023;19/05/2023;21/05/2023;delivered;Duta Niaga
+Putri Amelia;10000327;JNT;09/04/2023;12/04/2023;16/04/2023;delivered;Duta Niaga
+Novita Sari;10000328;JNE;28/06/2023;29/06/2023;01/07/2023;delivered;Maju Makmur
+Eko Prasetyo;10000329;JNE;29/10/2023;31/10/2023;01/11/2023;delivered;Sinar Harapan
+Eko Prasetyo;10000330;JNE;05/01/2023;07/01/2023;10/01/2023;delivered;Sinar Harapan
+Zainal Abidin;10000331;JNE;12/02/2023;15/02/2023;16/02/2023;delivered;Nusantara Mart
+Cahya Purnama;10000332;JNT;16/03/2023;17/03/2023;19/03/2023;delivered;Maju Makmur
+Herlina;10000333;JNE;04/12/2023;05/12/2023;10/12/2023;delivered;Garuda Perkasa
+Kartika Sari;10000334;JNE;20/04/2023;21/04/2023;25/04/2023;delivered;Maju Makmur
+Kartika Sari;10000335;POS;30/10/2023;31/10/2023;02/11/2023;delivered;Berkah Jaya Store
+Budi Santoso;10000336;POS;20/05/2023;22/05/2023;25/05/2023;delivered;Bintang Terang Shop
+Fitriani;10000337;POS;29/08/2023;01/09/2023;07/09/2023;delivered;Sinar Harapan
+Lia Anggraini;10000338;POS;27/08/2023;30/08/2023;05/09/2023;delivered;Sentosa Cell
+Siti Nurhaliza;10000339;Sicepat;11/10/2023;13/10/2023;;return;Karya Mandiri
+Rahmat Hidayat;10000340;JNE;22/01/2023;24/01/2023;;return;Cahaya Elektronik
+Utami;10000341;JNE;29/07/2023;01/08/2023;07/08/2023;delivered;Pelangi Fashion
+Siti Nurhaliza;10000342;POS;06/06/2023;08/06/2023;11/06/2023;delivered;Sinar Harapan
+Muhammad Rizky;10000343;JNT;18/01/2023;19/01/2023;25/01/2023;delivered;Nusantara Mart
+Novita Sari;10000344;JNE;03/06/2023;05/06/2023;;return;Cahaya Elektronik
+Muhammad Rizky;10000345;Sicepat;12/10/2023;14/10/2023;21/10/2023;delivered;Pelangi Fashion
+Wahyu Nugroho;10000346;Sicepat;05/06/2023;06/06/2023;11/06/2023;delivered;Sentosa Cell
+Siti Nurhaliza;10000347;Sicepat;29/06/2023;30/06/2023;03/07/2023;delivered;Bintang Terang Shop
+Indra Kusuma;10000348;JNE;13/05/2023;16/05/2023;;return;Karya Mandiri
+Agus Setiawan;10000349;Sicepat;06/12/2023;07/12/2023;10/12/2023;delivered;Sentosa Cell
+Yulia;10000350;JNT;27/02/2023;01/03/2023;05/03/2023;delivered;Garuda Perkasa
+Putri Amelia;10000351;POS;21/04/2023;24/04/2023;;return;Sinar Harapan
+Yulia;10000352;POS;31/07/2023;03/08/2023;;return;Garuda Perkasa
+Siti Nurhaliza;10000353;Sicepat;14/09/2023;15/09/2023;16/09/2023;delivered;Karya Mandiri
+Indra Kusuma;10000354;JNE;23/01/2023;26/01/2023;01/02/2023;delivered;Berkah Jaya Store
+Rahmat Hidayat;10000355;POS;13/09/2023;16/09/2023;21/09/2023;delivered;Berkah Jaya Store
+Cahya Purnama;10000356;JNT;25/08/2023;27/08/2023;29/08/2023;delivered;Garuda Perkasa
+Putri Amelia;10000357;JNT;08/01/2023;10/01/2023;11/01/2023;delivered;Pelangi Fashion
+Eko Prasetyo;10000358;JNT;02/01/2023;03/01/2023;10/01/2023;delivered;Pelangi Fashion
+Putri Amelia;10000359;JNE;09/03/2023;12/03/2023;16/03/2023;delivered;Maju Makmur
+Joko Susilo;10000360;JNT;13/07/2023;14/07/2023;19/07/2023;delivered;Berkah Jaya Store
+Rahmat Hidayat;10000361;POS;07/11/2023;08/11/2023;15/11/2023;delivered;Duta Niaga
+Indra Kusuma;10000362;POS;04/12/2023;07/12/2023;12/12/2023;delivered;Pelangi Fashion
+Ani Wijaya;10000363;POS;06/05/2023;09/05/2023;12/05/2023;delivered;Cahaya Elektronik
+Novita Sari;10000364;JNT;08/09/2023;10/09/2023;11/09/2023;delivered;Cahaya Elektronik
+Putri Amelia;10000365;POS;11/09/2023;14/09/2023;;return;Sentosa Cell
+Ani Wijaya;10000366;JNT;27/09/2023;29/09/2023;04/10/2023;delivered;Sentosa Cell
+Fitriani;10000367;Sicepat;30/04/2023;03/05/2023;06/05/2023;delivered;Pelangi Fashion
+Yulia;10000368;JNT;27/04/2023;28/04/2023;30/04/2023;delivered;Duta Niaga
+Indra Kusuma;10000369;Sicepat;25/09/2023;28/09/2023;29/09/2023;delivered;Bintang Terang Shop
+Dian Permata;10000370;JNE;26/02/2023;27/02/2023;06/03/2023;delivered;Pelangi Fashion
+Herlina;10000371;POS;02/02/2023;04/02/2023;08/02/2023;delivered;Karya Mandiri
+Cahya Purnama;10000372;JNE;09/05/2023;11/05/2023;;return;Pelangi Fashion
+Fitriani;10000373;Sicepat;23/01/2023;26/01/2023;28/01/2023;delivered;Pelangi Fashion
+Lia Anggraini;10000374;POS;29/07/2023;30/07/2023;;return;Bintang Terang Shop
+Muhammad Rizky;10000375;Sicepat;19/01/2023;21/01/2023;23/01/2023;delivered;Berkah Jaya Store
+Putri Amelia;10000376;Sicepat;01/04/2023;02/04/2023;08/04/2023;delivered;Karya Mandiri
+Zainal Abidin;10000377;Sicepat;27/01/2023;30/01/2023;31/01/2023;delivered;Karya Mandiri
+Kartika Sari;10000378;Sicepat;30/03/2023;01/04/2023;06/04/2023;delivered;Pelangi Fashion
+Muhammad Rizky;10000379;JNT;16/01/2023;19/01/2023;21/01/2023;delivered;Duta Niaga
+Putri Amelia;10000380;POS;22/06/2023;23/06/2023;29/06/2023;delivered;Sentosa Cell
+Yulia;10000381;JNE;01/09/2023;03/09/2023;06/09/2023;delivered;Nusantara Mart
+Lia Anggraini;10000382;Sicepat;08/06/2023;10/06/2023;12/06/2023;delivered;Karya Mandiri
+Zainal Abidin;10000383;POS;29/06/2023;30/06/2023;02/07/2023;delivered;Nusantara Mart
+Novita Sari;10000384;JNE;23/02/2023;25/02/2023;27/02/2023;delivered;Cahaya Elektronik
+Ani Wijaya;10000385;JNE;19/11/2023;20/11/2023;26/11/2023;delivered;Maju Makmur
+Zainal Abidin;10000386;JNE;29/10/2023;31/10/2023;;return;Maju Makmur
+Siti Nurhaliza;10000387;JNT;11/03/2023;12/03/2023;13/03/2023;delivered;Bintang Terang Shop
+Novita Sari;10000388;JNE;13/01/2023;14/01/2023;;return;Sentosa Cell
+Indra Kusuma;10000389;JNT;28/04/2023;01/05/2023;06/05/2023;delivered;Pelangi Fashion
+Budi Santoso;10000390;JNT;02/02/2023;04/02/2023;05/02/2023;delivered;Bintang Terang Shop
+Agus Setiawan;10000391;JNT;26/10/2023;27/10/2023;28/10/2023;delivered;Pelangi Fashion
+Utami;10000392;JNE;08/11/2023;10/11/2023;;return;Garuda Perkasa
+Agus Setiawan;10000393;JNE;11/11/2023;14/11/2023;15/11/2023;delivered;Sentosa Cell
+Fitriani;10000394;JNT;03/07/2023;06/07/2023;09/07/2023;delivered;Berkah Jaya Store
+Cahya Purnama;10000395;JNE;10/07/2023;11/07/2023;;return;Garuda Perkasa
+Utami;10000396;POS;14/06/2023;16/06/2023;23/06/2023;delivered;Berkah Jaya Store
+Gunawan;10000397;JNE;09/10/2023;10/10/2023;13/10/2023;delivered;Sentosa Cell
+Kartika Sari;10000398;Sicepat;01/11/2023;03/11/2023;07/11/2023;delivered;Pelangi Fashion
+Citra Kirana;10000399;Sicepat;16/12/2023;17/12/2023;20/12/2023;delivered;Bintang Terang Shop
+Citra Kirana;10000400;JNT;11/05/2023;13/05/2023;20/05/2023;delivered;Sentosa Cell
+Lia Anggraini;10000401;POS;08/09/2023;11/09/2023;15/09/2023;delivered;Sentosa Cell
+Dewi Lestari;10000402;POS;07/04/2023;09/04/2023;14/04/2023;delivered;Nusantara Mart
+Taufik Hidayat;10000403;POS;13/05/2023;15/05/2023;20/05/2023;delivered;Sinar Harapan
+Indra Kusuma;10000404;JNE;21/12/2023;23/12/2023;24/12/2023;delivered;Pelangi Fashion
+Kartika Sari;10000405;JNE;04/08/2023;05/08/2023;06/08/2023;delivered;Sinar Harapan
+Utami;10000406;Sicepat;25/12/2023;28/12/2023;30/12/2023;delivered;Karya Mandiri
+Agus Setiawan;10000407;POS;08/03/2023;11/03/2023;16/03/2023;delivered;Pelangi Fashion
+Zainal Abidin;10000408;POS;15/05/2023;18/05/2023;19/05/2023;delivered;Berkah Jaya Store
+Wahyu Nugroho;10000409;Sicepat;01/08/2023;03/08/2023;09/08/2023;delivered;Garuda Perkasa
+Wahyu Nugroho;10000410;JNT;18/11/2023;19/11/2023;;return;Sentosa Cell
+Indra Kusuma;10000411;Sicepat;03/06/2023;05/06/2023;;return;Maju Makmur
+Utami;10000412;Sicepat;23/02/2023;25/02/2023;28/02/2023;delivered;Maju Makmur
+Gunawan;10000413;JNE;12/10/2023;14/10/2023;16/10/2023;delivered;Maju Makmur
+Kartika Sari;10000414;Sicepat;17/07/2023;19/07/2023;22/07/2023;delivered;Garuda Perkasa
+Rahmat Hidayat;10000415;Sicepat;08/06/2023;09/06/2023;12/06/2023;delivered;Berkah Jaya Store
+Gunawan;10000416;JNE;05/01/2023;06/01/2023;10/01/2023;delivered;Berkah Jaya Store
+Gunawan;10000417;JNT;19/11/2023;20/11/2023;26/11/2023;delivered;Nusantara Mart
+Cahya Purnama;10000418;Sicepat;01/01/2024;03/01/2024;;return;Bintang Terang Shop
+Eko Prasetyo;10000419;JNT;25/05/2023;28/05/2023;03/06/2023;delivered;Bintang Terang Shop
+Novita Sari;10000420;JNT;20/09/2023;22/09/2023;26/09/2023;delivered;Sinar Harapan
+Ani Wijaya;10000421;Sicepat;20/07/2023;21/07/2023;22/07/2023;delivered;Nusantara Mart
+Wahyu Nugroho;10000422;POS;11/08/2023;13/08/2023;14/08/2023;delivered;Duta Niaga
+Budi Santoso;10000423;JNT;30/03/2023;31/03/2023;07/04/2023;delivered;Sinar Harapan
+Yulia;10000424;Sicepat;10/06/2023;12/06/2023;16/06/2023;delivered;Garuda Perkasa
+Indra Kusuma;10000425;POS;27/04/2023;30/04/2023;;return;Sinar Harapan
+Muhammad Rizky;10000426;JNE;28/08/2023;29/08/2023;;return;Nusantara Mart
+Kartika Sari;10000427;JNE;07/06/2023;09/06/2023;11/06/2023;delivered;Duta Niaga
+Ani Wijaya;10000428;JNE;19/09/2023;22/09/2023;29/09/2023;delivered;Sinar Harapan
+Muhammad Rizky;10000429;JNT;13/12/2023;14/12/2023;21/12/2023;delivered;Pelangi Fashion
+Dewi Lestari;10000430;Sicepat;17/06/2023;18/06/2023;20/06/2023;delivered;Duta Niaga
+Cahya Purnama;10000431;JNE;01/09/2023;04/09/2023;05/09/2023;delivered;Sinar Harapan
+Novita Sari;10000432;JNT;07/05/2023;08/05/2023;11/05/2023;delivered;Sentosa Cell
+Dian Permata;10000433;JNE;14/08/2023;16/08/2023;17/08/2023;delivered;Sinar Harapan
+Muhammad Rizky;10000434;Sicepat;29/05/2023;31/05/2023;05/06/2023;delivered;Cahaya Elektronik
+Agus Setiawan;10000435;JNT;24/08/2023;26/08/2023;02/09/2023;delivered;Garuda Perkasa
+Novita Sari;10000436;JNT;12/07/2023;13/07/2023;15/07/2023;delivered;Karya Mandiri
+Taufik Hidayat;10000437;Sicepat;15/04/2023;17/04/2023;22/04/2023;delivered;Sinar Harapan
+Dewi Lestari;10000438;POS;11/09/2023;13/09/2023;19/09/2023;delivered;Pelangi Fashion
+Kartika Sari;10000439;JNE;08/10/2023;09/10/2023;10/10/2023;delivered;Pelangi Fashion
+Rahmat Hidayat;10000440;POS;15/06/2023;16/06/2023;20/06/2023;delivered;Bintang Terang Shop
+Siti Nurhaliza;10000441;Sicepat;28/03/2023;30/03/2023;04/04/2023;delivered;Karya Mandiri
+Yulia;10000442;POS;15/01/2023;17/01/2023;;return;Maju Makmur
+Citra Kirana;10000443;JNE;05/01/2023;06/01/2023;08/01/2023;delivered;Garuda Perkasa
+Dian Permata;10000444;Sicepat;07/10/2023;10/10/2023;16/10/2023;delivered;Berkah Jaya Store
+Cahya Purnama;10000445;JNT;03/05/2023;04/05/2023;11/05/2023;delivered;Berkah Jaya Store
+Agus Setiawan;10000446;JNT;23/04/2023;25/04/2023;29/04/2023;delivered;Karya Mandiri
+Novita Sari;10000447;Sicepat;09/10/2023;11/10/2023;17/10/2023;delivered;Berkah Jaya Store
+Dian Permata;10000448;JNT;26/05/2023;27/05/2023;31/05/2023;delivered;Maju Makmur
+Eko Prasetyo;10000449;JNE;19/02/2023;21/02/2023;24/02/2023;delivered;Berkah Jaya Store
+Herlina;10000450;JNE;17/09/2023;18/09/2023;;return;Garuda Perkasa
+Dewi Lestari;10000451;JNE;19/10/2023;20/10/2023;25/10/2023;delivered;Garuda Perkasa
+Muhammad Rizky;10000452;Sicepat;25/09/2023;27/09/2023;30/09/2023;delivered;Karya Mandiri
+Wahyu Nugroho;10000453;POS;23/07/2023;24/07/2023;27/07/2023;delivered;Nusantara Mart
+Budi Santoso;10000454;JNT;17/12/2023;18/12/2023;19/12/2023;delivered;Maju Makmur
+Lia Anggraini;10000455;POS;11/11/2023;12/11/2023;;return;Cahaya Elektronik
+Taufik Hidayat;10000456;POS;28/03/2023;30/03/2023;;return;Nusantara Mart
+Siti Nurhaliza;10000457;POS;20/02/2023;21/02/2023;23/02/2023;delivered;Karya Mandiri
+Citra Kirana;10000458;JNE;17/07/2023;18/07/2023;;return;Berkah Jaya Store
+Zainal Abidin;10000459;POS;27/05/2023;30/05/2023;02/06/2023;delivered;Bintang Terang Shop
+Siti Nurhaliza;10000460;JNE;19/05/2023;21/05/2023;28/05/2023;delivered;Maju Makmur
+Zainal Abidin;10000461;JNE;24/10/2023;25/10/2023;01/11/2023;delivered;Karya Mandiri
+Siti Nurhaliza;10000462;POS;14/05/2023;17/05/2023;24/05/2023;delivered;Berkah Jaya Store
+Siti Nurhaliza;10000463;JNT;11/10/2023;12/10/2023;14/10/2023;delivered;Sinar Harapan
+Novita Sari;10000464;JNE;31/12/2023;02/01/2024;06/01/2024;delivered;Maju Makmur
+Cahya Purnama;10000465;POS;21/05/2023;22/05/2023;;return;Sentosa Cell
+Utami;10000466;JNT;03/01/2023;04/01/2023;07/01/2023;delivered;Maju Makmur
+Herlina;10000467;Sicepat;17/08/2023;20/08/2023;26/08/2023;delivered;Bintang Terang Shop
+Utami;10000468;JNT;06/04/2023;09/04/2023;13/04/2023;delivered;Sentosa Cell
+Siti Nurhaliza;10000469;POS;30/07/2023;01/08/2023;06/08/2023;delivered;Maju Makmur
+Lia Anggraini;10000470;JNE;12/01/2023;13/01/2023;14/01/2023;delivered;Maju Makmur
+Gunawan;10000471;JNT;18/05/2023;19/05/2023;24/05/2023;delivered;Karya Mandiri
+Fitriani;10000472;Sicepat;26/09/2023;28/09/2023;29/09/2023;delivered;Berkah Jaya Store
+Zainal Abidin;10000473;POS;04/05/2023;05/05/2023;11/05/2023;delivered;Pelangi Fashion
+Utami;10000474;POS;21/03/2023;22/03/2023;;return;Pelangi Fashion
+Muhammad Rizky;10000475;POS;03/05/2023;06/05/2023;09/05/2023;delivered;Garuda Perkasa
+Utami;10000476;JNT;13/11/2023;16/11/2023;23/11/2023;delivered;Sentosa Cell
+Eko Prasetyo;10000477;POS;18/01/2023;20/01/2023;;return;Sinar Harapan
+Yulia;10000478;Sicepat;06/12/2023;07/12/2023;09/12/2023;delivered;Nusantara Mart
+Rahmat Hidayat;10000479;POS;23/04/2023;24/04/2023;30/04/2023;delivered;Bintang Terang Shop
+Ani Wijaya;10000480;Sicepat;18/11/2023;19/11/2023;25/11/2023;delivered;Maju Makmur
+Kartika Sari;10000481;JNE;16/09/2023;17/09/2023;;return;Bintang Terang Shop
+Kartika Sari;10000482;POS;21/05/2023;23/05/2023;29/05/2023;delivered;Sinar Harapan
+Citra Kirana;10000483;JNE;11/08/2023;13/08/2023;20/08/2023;delivered;Sinar Harapan
+Joko Susilo;10000484;Sicepat;25/11/2023;27/11/2023;;return;Karya Mandiri
+Eko Prasetyo;10000485;POS;15/02/2023;16/02/2023;20/02/2023;delivered;Berkah Jaya Store
+Dian Permata;10000486;Sicepat;06/02/2023;07/02/2023;09/02/2023;delivered;Berkah Jaya Store
+Novita Sari;10000487;POS;18/09/2023;19/09/2023;25/09/2023;delivered;Berkah Jaya Store
+Wahyu Nugroho;10000488;JNE;30/04/2023;01/05/2023;06/05/2023;delivered;Nusantara Mart
+Cahya Purnama;10000489;JNE;20/04/2023;22/04/2023;23/04/2023;delivered;Bintang Terang Shop
+Putri Amelia;10000490;Sicepat;23/05/2023;24/05/2023;31/05/2023;delivered;Berkah Jaya Store
+Fitriani;10000491;JNE;31/08/2023;02/09/2023;;return;Nusantara Mart
+Fitriani;10000492;JNT;17/08/2023;20/08/2023;21/08/2023;delivered;Maju Makmur
+Cahya Purnama;10000493;POS;28/01/2023;29/01/2023;01/02/2023;delivered;Sentosa Cell
+Yulia;10000494;POS;01/12/2023;04/12/2023;11/12/2023;delivered;Berkah Jaya Store
+Rahmat Hidayat;10000495;POS;27/06/2023;30/06/2023;05/07/2023;delivered;Cahaya Elektronik
+Ani Wijaya;10000496;Sicepat;03/02/2023;05/02/2023;11/02/2023;delivered;Maju Makmur
+Kartika Sari;10000497;POS;23/06/2023;24/06/2023;25/06/2023;delivered;Garuda Perkasa
+Gunawan;10000498;JNE;17/12/2023;18/12/2023;25/12/2023;delivered;Sentosa Cell
+Cahya Purnama;10000499;JNE;18/09/2023;21/09/2023;28/09/2023;delivered;Duta Niaga
